@@ -9,6 +9,7 @@ We are analysing Walmart's sales data to identify high-performing branches and p
 The main goal of this project is to gain understanding from Walmart's sales data, exploring the various factors that influence sales across different branches.
 
 ## Credits 
+This SQL Database and queries question have been forked from https://github.com/Princekrampah . Codes inside "walmart sales.sql" have been created by https://github.com/jeeva046 (Myself). So feel free to check out both respositories for learning purpose and obtain good knowledge about writing SQL queries. 
 
 
 ## About Data
